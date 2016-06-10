@@ -1,0 +1,9 @@
+1 2 8 Rua 1@
+1 4 3 Rua 3@
+2 3 5 Rua 2@
+2 6 6 Rua 6@Mon4#
+4 5 3 Rua 4@Mon1#
+6 5 8 Rua 5@
+6 7 8 Rua 7@
+6 8 6 Rua 8@Mon3#
+7 8 10 Rua 9@Mon2#

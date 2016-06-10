@@ -1,0 +1,6 @@
+1 2 100 Rua do Trindade@
+1 4 10 Rua da Vedra@
+2 3 100 Rua do Ivo@Torre#
+3 6 159 Rui da Rua@
+4 5 50 Rua do Paulo@
+5 6 60 Rua do Pedro@Ponte#

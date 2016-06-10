@@ -1,0 +1,17 @@
+﻿Build started 31/05/2013 16:29:28.
+     1>Project "C:\Users\Ivo\Dropbox\Transferencias [Ivo - João Trindade]\Projecto CAL 2\Final\CAL_Proj2\CAL_Proj2\CAL_Proj2\CAL_Proj2.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\CAL_Proj2.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         CAL_Proj2.vcxproj -> C:\Users\Ivo\Dropbox\Transferencias [Ivo - João Trindade]\Projecto CAL 2\Final\CAL_Proj2\CAL_Proj2\Release\CAL_Proj2.exe
+       FinalizeBuildStatus:
+         Deleting file "Release\CAL_Proj2.unsuccessfulbuild".
+         Touching "Release\CAL_Proj2.lastbuildstate".
+     1>Done Building Project "C:\Users\Ivo\Dropbox\Transferencias [Ivo - João Trindade]\Projecto CAL 2\Final\CAL_Proj2\CAL_Proj2\CAL_Proj2\CAL_Proj2.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.79
